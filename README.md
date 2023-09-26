@@ -1,6 +1,6 @@
 # backendassignment project
 
-* git pull form https://github.com/Django-Devloper/backendassignment.git or download zip file and extract 
+* git clone https://github.com/Django-Devloper/backendassignment.git or download zip file and extract 
 * create virtual environment using " python3 -m venv venv " 
 * activate env " source ./vent/bin/activate"
 * install requirements.txt file with " pip install -r requirements.txt "
